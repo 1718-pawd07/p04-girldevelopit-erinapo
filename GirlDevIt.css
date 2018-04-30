@@ -1,0 +1,45 @@
+/*
+* Erin Apostolico
+* 4/19/18
+* Girl Develop It Project
+*/
+
+body{ 
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* link formatting */
+
+a:hover , a:focus{ 
+	color: fuchsia; 
+}
+
+
+/* image formatting */
+
+header {
+	text-align: center;
+	background: #F76D6D;
+}
+
+.ImageRight{ 
+	float: right; 
+}
+
+.cursive-heading{ 
+	font-family: "Lucida Handwriting";
+	text-decoration: underline; 
+	color: black; 
+}
+
+
+/*  body attributes  */
+
+body{  
+	background-color: #FCC5BA; 
+}
+
+#visit { 
+	font-family: "Times New Roman";
+}
